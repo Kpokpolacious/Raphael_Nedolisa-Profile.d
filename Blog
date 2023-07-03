@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Raphael Somto Nedolisa - Blog and Web Creator</title>
+    <link rel="stylesheet" type="text/css" href="styles.css"> <!-- Optional: link to your custom CSS file -->
+</head>
+<body>
+    <header>
+        <h1>Raphael Somto Nedolisa</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Profile Summary</h2>
+            <p>An Oracle Developer, Data Scientist, Blog and Web Creator. Specializes in Creative Writing.</p>
+            <p>Rate: $24.50/hr</p>
+        </section>
+
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>Javascript(16.10), python(10), C++, C, Rust</li>
+                <li>Magento (1 and 2), Bitrix, Wordpress, Modx, Yii (MVC, MVVM Knowledge)</li>
+                <li>Php, Js / Jquery, MySql, Ajax, Html, Css</li>
+                <li>Unix / Linux (CentOS, Debian, Ubuntu) and Bitrix Environment administration</li>
+                <li>Web Design (Photoshop)</li>
+                <li>DJANGO and MongoDB for web and E-commerce</li>
+                <li>Android development (Kotlin, Java)</li>
+                <li>Hybrid app development (Xamarin forms, Unity 3d, C#, Android, iOS)</li>
+                <li>SQLite database</li>
+                <li>Git version control system knowledge</li>
+                <li>Project management skills</li>
+                <li>Blog Writing and editing</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Experience</h2>
+            <p>I'm a Web/Mobile developer and eCommerce specialist with 9 years of experience. I have worked with various web technologies and frameworks including Magento (1 and 2), Bitrix, Wordpress, Modx, and Yii. I am also experienced in Unix/Linux administration and web design using Photoshop. For mobile development, I specialize in Android (Kotlin, Java), hybrid app development using Xamarin forms and Unity 3d, and SQLite database management.</p>
+        </section>
+
+        <section>
+            <h2>Contact</h2>
+            <p>Email: nedolisaraphael@gmail.com</p>
+            <p>Phone: +2347049802839</p>
+        </section>
+
+        <section>
+            <h2>Portfolio</h2>
+            <p>Visit my GitHub profile for reviews and code samples: <a href="https://github.com/Kpokpolacious"</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Raphael Somto Nedolisa. All rights reserved.</p>
+    </footer>
+</body>
+</html>
